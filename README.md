@@ -1,3 +1,4 @@
+#Trigsolver
 This Python script is a Triangle Solver that calculates the properties of a triangle based on user input. 
 The program makesuse of the Law of Sines and Cosines to calculate the side lengths and angles and is able
 to compute the following cases:
